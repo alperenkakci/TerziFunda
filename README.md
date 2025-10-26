@@ -28,7 +28,7 @@ Bahçelievler'de bulunan Terzi Funda dükkanı için geliştirilmiş modern, SEO
 
 ```bash
 # Repository'yi klonla
-git clone https://github.com/[username]/terzi-funda-website.git
+git clone https://github.com/alperenkakci/terzi-funda-website.git
 cd terzi-funda-website
 
 # Bağımlılıkları yükle

@@ -3,7 +3,7 @@ import { MapPinIcon, PhoneIcon, ClockIcon } from '@heroicons/react/24/outline';
 
 export const metadata: Metadata = {
   title: 'İletişim - Terzi Funda | Bahçelievler Konum ve İletişim Bilgileri',
-  description: 'Terzi Funda iletişim bilgileri, konum, çalışma saatleri ve yol tarifi. Bahçelievler Zafer Mahallesi\'nde hizmet veriyoruz.',
+  description: 'Terzi Funda iletişim bilgileri, konum, çalışma saatleri ve yol tarifi. Bahçelievler Zafer Mahallesi&apos;nde hizmet veriyoruz.',
 };
 
 const contactInfo = [
@@ -64,7 +64,7 @@ export default function IletisimPage() {
               İletişim
             </h1>
             <p className="mt-6 text-lg leading-8 text-gray-600">
-              Bahçelievler'de kolayca ulaşabileceğiniz konumumuzda sizleri bekliyoruz. 
+              Bahçelievler&apos;de kolayca ulaşabileceğiniz konumumuzda sizleri bekliyoruz. 
               Sorularınız için bize ulaşın.
             </p>
           </div>
@@ -129,7 +129,7 @@ export default function IletisimPage() {
                   Ulaşım İmkanları
                 </h4>
                 <ul className="space-y-2 text-gray-600">
-                  <li>• Bahçelievler Metro İstasyonu'na 5 dakika yürüme mesafesi</li>
+                  <li>• Bahçelievler Metro İstasyonu&apos;na 5 dakika yürüme mesafesi</li>
                   <li>• Şirinevler, Soğanlı, Yenibosna bölgelerine yakın</li>
                   <li>• Otobüs durağı 2 dakika mesafede</li>
                   <li>• Ücretsiz sokak parkı mevcut</li>
@@ -153,8 +153,8 @@ export default function IletisimPage() {
                   Kolay Bulma İpuçları
                 </h4>
                 <p className="text-green-800 text-sm">
-                  Zafer Mahallesi Cihangir Sokak'ta, sokağın başındaki giriş katta yer alıyoruz. 
-                  Bahçelievler Metro'dan çıktıktan sonra Zafer Mahallesi yönüne doğru yürüyün.
+                  Zafer Mahallesi Cihangir Sokak&apos;ta, sokağın başındaki giriş katta yer alıyoruz. 
+                  Bahçelievler Metro&apos;dan çıktıktan sonra Zafer Mahallesi yönüne doğru yürüyün.
                 </p>
               </div>
             </div>

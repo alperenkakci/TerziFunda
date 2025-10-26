@@ -27,7 +27,7 @@ export default function AboutSection() {
             Terzi Funda
           </h2>
           <p className="mt-6 text-lg leading-8 text-gray-600">
-            1999 yılından bu yana Bahçelievler'de hizmet veriyoruz. 
+            1999 yılından bu yana Bahçelievler&apos;de hizmet veriyoruz. 
             25 yıllık deneyimimizle pantolon paça kesme, daraltma, kıyafet onarımı 
             ve ölçü değişiklikleri konularında uzmanlaştık.
           </p>

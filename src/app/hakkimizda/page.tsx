@@ -40,7 +40,7 @@ export default function HakkimizdaPage() {
               Hakkımızda
             </h1>
             <p className="mt-6 text-lg leading-8 text-gray-600">
-              Bahçelievler'de 25 yıldır kaliteli terzilik hizmeti sunuyoruz.
+              Bahçelievler&apos;de 25 yıldır kaliteli terzilik hizmeti sunuyoruz.
             </p>
           </div>
         </div>
@@ -55,7 +55,7 @@ export default function HakkimizdaPage() {
             </h2>
             <div className="space-y-4 text-lg text-gray-600">
               <p>
-                1999 yılından bu yana Bahçelievler Zafer Mahallesi'nde hizmet veriyoruz. 
+                1999 yılından bu yana Bahçelievler Zafer Mahallesi&apos;nde hizmet veriyoruz. 
                 25 yıllık deneyimimizle pantolon paça kesme, daraltma, kıyafet onarımı 
                 ve ölçü değişiklikleri konularında uzmanlaştık.
               </p>

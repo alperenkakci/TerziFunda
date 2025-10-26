@@ -10,7 +10,7 @@ export default function Footer() {
           <div>
             <h3 className="text-lg font-semibold text-white mb-4">Terzi Funda</h3>
             <p className="text-gray-300 text-sm mb-4">
-              25 yıllık tekstil deneyimi ile Bahçelievler'de kaliteli ve uygun fiyatlı terzilik hizmeti.
+              25 yıllık tekstil deneyimi ile Bahçelievler&apos;de kaliteli ve uygun fiyatlı terzilik hizmeti.
             </p>
             <div className="flex items-center text-gray-300 text-sm mb-2">
               <MapPinIcon className="h-4 w-4 mr-2 flex-shrink-0" />

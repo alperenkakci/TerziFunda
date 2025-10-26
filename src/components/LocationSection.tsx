@@ -9,7 +9,7 @@ export default function LocationSection() {
             Konum ve İletişim
           </h2>
           <p className="mt-4 text-lg leading-8 text-gray-600">
-            Bahçelievler'de kolayca ulaşabileceğiniz konumumuzda sizleri bekliyoruz
+            Bahçelievler&apos;de kolayca ulaşabileceğiniz konumumuzda sizleri bekliyoruz
           </p>
         </div>
 
@@ -66,7 +66,7 @@ export default function LocationSection() {
                 Ulaşım Bilgileri
               </h4>
               <div className="text-blue-800 space-y-2">
-                <p>• Bahçelievler Metro İstasyonu'na 5 dakika yürüme mesafesi</p>
+                <p>• Bahçelievler Metro İstasyonu&apos;na 5 dakika yürüme mesafesi</p>
                 <p>• Şirinevler, Soğanlı, Yenibosna bölgelerine yakın</p>
                 <p>• Otobüs durağı 2 dakika mesafede</p>
                 <p>• Ücretsiz sokak parkı mevcut</p>

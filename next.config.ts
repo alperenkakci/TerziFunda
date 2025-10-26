@@ -6,7 +6,6 @@ const nextConfig: NextConfig = {
   images: {
     unoptimized: true
   },
-  // Static export için basit konfigürasyon
 };
 
 export default nextConfig;
